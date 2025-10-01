@@ -64,7 +64,6 @@
 
 # /usr/local/bin/ajusta_brilho.sh down
 
-# ⚠️ Substitua seu_usuário pelo seu nome de usuário real.
 
 # Depois de clicar em OK, o sistema vai pedir para você pressionar a combinação de teclas 
 # desejada.
